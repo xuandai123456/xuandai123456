@@ -32,32 +32,6 @@ Quản lý thông tin nhân viên và khách hàng hiệu quả
 > **NOTE**: Nhóm chưa thể hoàn thành những chức năng khác như: thanh toán, báo cáo, thống kê, phân quyền theo từng nhóm nhân viên
 
 
-### Styles
-
-The following styles are available (`flat` is the default).
-
-| style | demo |
-| ----- | ---- |
-| `flat` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat) |
-| `flat-square` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat-square) |
-| `plastic` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic) |
-| `for-the-badge` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge) |
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-```
-
-### Label
-
-You can overwrite default `Profile views` text with your own label.
-
-![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-```
-
-> **NOTE**: Replace whitespace with `+` character in multi-word labels.
 
 ## FAQ
 
