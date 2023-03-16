@@ -32,16 +32,17 @@ Quản lý thông tin nhân viên và khách hàng hiệu quả
 
 
 
-## FAQ
+## Tổng quát
 
-### Can I see detailed statistics?
-
-This project provides minimalistic counter only. Use [Ÿ HŸPE] service if you want to get detailed info about:
-- user profile views
-- user followers history
-- repository stars history
-- repository traffic for longer than 14 days
-
+### Dàn bài
+Trang web gồm có 4 trang chính: <br>
++ Trang chủ
++ Trang giới thiệu
++ Trang lịch trình
++ Trang phiếu đặt vé
++ Trang tin tức
++ Trang đăng nhập
+<img ![image](https://user-images.githubusercontent.com/127927264/225727901-d43ba78d-7883-4566-97d6-3843ad100bbb.png) alt="anh"></a>
 ### How to reset counter?
 
 To reset counter you should login to the [Ÿ HŸPE] service and then you will be able to reset counter on the https://yhype.me/ghpvc page.
