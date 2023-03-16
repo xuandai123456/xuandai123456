@@ -35,7 +35,7 @@ Quản lý thông tin nhân viên và khách hàng hiệu quả
 ## Tổng quát
 
 ### Dàn bài
-Trang web gồm có 4 trang chính: <br>
+💡Trang web gồm có 4 trang chính: <br>
 + Trang chủ
 + Trang giới thiệu
 + Trang lịch trình
