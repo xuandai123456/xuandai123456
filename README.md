@@ -15,7 +15,6 @@ Môn Phát triển hệ thống web CT299
 Đề tài: Hệ thống quản lý bán vé xe khách của chi nhánh ITBus
 
 ### Member
-
 <br>Nguyễn Thị Hương Khoa B1234
 <br>Nguyễn Thị Minh Ngọc B2549
 <br>Võ Gia Huy B3455
@@ -59,24 +58,3 @@ we don't know who initiated it.
 
 No. Only spending it. [Become a sponsor] if you want it to keep running & receive new features.
 
-## Alternatives
-
-- [Ÿ HŸPE] enhanced GitHub professional account statistics & analytics
-
-## License
-
-- `GitHub Profile Views Counter` application is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev].
-- `Eye Octicon` hero image licensed under MIT license by [GitHub, Inc].
-
-## 🌟 Stargazers over time
-
-[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/MDEwOlJlcG9zaXRvcnkyNzg5Mjk4Njc=.svg)](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-profile-views-counter&utm_content=chart-repository-star-cumulative)
-
-[Anton Komarev]: https://komarev.com
-[GitHub, Inc]: https://github.com
-[Live demo]: https://github.com/antonkomarev
-[my profile repository]: https://github.com/antonkomarev/antonkomarev
-[Help me cut server costs]: https://paypal.me/antonkomarev
-[Become a sponsor]: https://paypal.me/antonkomarev
-[GitHub Camo service]: https://github.blog/2010-11-13-sidejack-prevention-phase-3-ssl-proxied-assets/
-[Ÿ HŸPE]: https://yhype.me
