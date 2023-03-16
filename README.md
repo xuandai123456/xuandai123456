@@ -42,20 +42,5 @@ Trang web gồm có 4 trang chính: <br>
 + Trang phiếu đặt vé
 + Trang tin tức
 + Trang đăng nhập
-<img ![image](https://user-images.githubusercontent.com/127927264/225727901-d43ba78d-7883-4566-97d6-3843ad100bbb.png) alt="anh"></a>
-### How to reset counter?
-
-To reset counter you should login to the [Ÿ HŸPE] service and then you will be able to reset counter on the https://yhype.me/ghpvc page.
-
-### Why does the counter increase every time the page is reloaded?
-
-This is counter of profile views (page hits), not a counter of unique visitors.
-There is no way to get the username, browser user agent or IP address of the visitor because
-GitHub proxies all image URLs through the [GitHub Camo service].
-In other words, we can only increment the counter for each request from the GitHub proxy server,
-we don't know who initiated it.
-
-### Are you making money on it?
-
-No. Only spending it. [Become a sponsor] if you want it to keep running & receive new features.
+< ![image](https://user-images.githubusercontent.com/127927264/225727901-d43ba78d-7883-4566-97d6-3843ad100bbb.png) >
 
