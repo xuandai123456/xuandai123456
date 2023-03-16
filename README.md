@@ -1,4 +1,4 @@
-# GitHub Profile Views Counter
+# Đặng Ngọc Xuân Đài CTU
 
 ![GitHub Profile Views Counter](https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png)
 
