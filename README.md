@@ -1,8 +1,7 @@
 # Đặng Ngọc Xuân Đài CTU
 
 <p align="center">
-<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
-<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+<img src="https://static.tuoitre.vn/tto/i/s626/2012/12/13/acDyFo20.jpg" alt="anh"></a>
 </p>
 
 ## Introduction
@@ -11,30 +10,24 @@ B2003731
 Hệ thống thông tin k46
 Trường Công Nghệ Thông Tin Và Truyền Thông
 
-## Usage
+## My web
+Môn Phát triển hệ thống web CT299
+Đề tài: Hệ thống quản lý bán vé xe khách của chi nhánh ITBus
 
-Cloud solution launched as 100% free experience. [Help me cut server costs] if you like this service.
+### Member
 
-If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
-without spamming our server. Everybody knows that any counters could be faked.
+Nguyễn Thị Hương Khoa B1234
+Nguyễn Thị Minh Ngọc B2549
+Võ Gia Huy B3455
 
-> A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion number in the counter.
+### Giới thiệu về hệ thống:
+Hệ thống quản lý bán vé xe khách ở chi nhánh của một công ty vận tải
+Hỗ trợ khách hàng đặt vé online, tìm kiếm và xem thông tin chuyến xe
+Giúp nhân viên quản lý thông tin chuyến xe, cập nhật và nắm bắt thông tin nhanh chóng, chính xác
+Quản lý thông tin nhân viên và khách hàng hiệu quả
 
-### Create GitHub profile repository
 
-GitHub magic will happen as soon as you will create a new repository named equally to your username.
 
-![secret-profile-repository](https://user-images.githubusercontent.com/1849174/87852702-f24acb80-c90c-11ea-8247-90ae7de0954d.png)
-
-[Live demo] of [my profile repository].
-
-### Add counter to GitHub profile
-
-You need to add counter in README.md file in your profile repository via Markdown syntax:
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username)
-```
 
 > **NOTE**: Don't forget to replace example `your-github-username` parameter with real value.
 
