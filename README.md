@@ -5,9 +5,9 @@
 </p>
 
 ## Introduction
-Đặng Ngọc Xuân Đài
-B2003731
-Hệ thống thông tin k46
+Đặng Ngọc Xuân Đài🖐️<br>
+B2003731<br>
+Hệ thống thông tin k46<br>
 Trường Công Nghệ Thông Tin Và Truyền Thông
 
 ## My web
