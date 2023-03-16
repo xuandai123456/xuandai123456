@@ -16,9 +16,9 @@ Môn Phát triển hệ thống web CT299
 
 ### Member
 
-Nguyễn Thị Hương Khoa B1234
-Nguyễn Thị Minh Ngọc B2549
-Võ Gia Huy B3455
+<br>Nguyễn Thị Hương Khoa B1234
+<br>Nguyễn Thị Minh Ngọc B2549
+<br>Võ Gia Huy B3455
 
 ### Giới thiệu về hệ thống:
 Hệ thống quản lý bán vé xe khách ở chi nhánh của một công ty vận tải
@@ -29,41 +29,8 @@ Quản lý thông tin nhân viên và khách hàng hiệu quả
 
 
 
-> **NOTE**: Don't forget to replace example `your-github-username` parameter with real value.
+> **NOTE**: Nhóm chưa thể hoàn thành những chức năng khác như: thanh toán, báo cáo, thống kê, phân quyền theo từng nhóm nhân viên
 
-## Make it personal
-
-### Color
-
-You can use any valid HEX color or pick from a predefined set of named colors (`blue` is the default).
-
-| color | demo |
-| ----- | ---- |
-| `brightgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen) |
-| `green` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=green) |
-| `yellow` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellow) |
-| `yellowgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellowgreen) |
-| `orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
-| `red` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=red) |
-| `blue` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) |
-| `grey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=grey) |
-| `lightgrey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=lightgrey) |
-| `blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
-| `ff69b4` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |
-
-**Named color**
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-```
-
-**Hex color**
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
-```
-
-> **NOTE**: HEX colors should be used without `#` symbol prefix.
 
 ### Styles
 
