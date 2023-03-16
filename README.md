@@ -11,8 +11,8 @@ Hệ thống thông tin k46
 Trường Công Nghệ Thông Tin Và Truyền Thông
 
 ## My web
-Môn Phát triển hệ thống web CT299
-Đề tài: Hệ thống quản lý bán vé xe khách của chi nhánh ITBus
+Môn Phát triển hệ thống web CT299 <br>
+🚩Đề tài: Hệ thống quản lý bán vé xe khách của chi nhánh ITBus
 
 ### Member
 <br>Nguyễn Thị Hương Khoa B1234
@@ -36,11 +36,11 @@ Quản lý thông tin nhân viên và khách hàng hiệu quả
 
 ### Dàn bài
 💡Trang web gồm có 4 trang chính: <br>
-+ Trang chủ
-+ Trang giới thiệu
-+ Trang lịch trình
-+ Trang phiếu đặt vé
-+ Trang tin tức
-+ Trang đăng nhập
+               ✅ Trang chủ
+               ✅ Trang giới thiệu
+               ✅ Trang lịch trình
+               ✅ Trang phiếu đặt vé
+               ✅ Trang tin tức
+               ✅ Trang đăng nhập
  ![image](https://user-images.githubusercontent.com/127927264/225727901-d43ba78d-7883-4566-97d6-3843ad100bbb.png) 
 
