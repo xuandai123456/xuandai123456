@@ -42,5 +42,5 @@ Quản lý thông tin nhân viên và khách hàng hiệu quả
 + Trang phiếu đặt vé
 + Trang tin tức
 + Trang đăng nhập
-< ![image](https://user-images.githubusercontent.com/127927264/225727901-d43ba78d-7883-4566-97d6-3843ad100bbb.png) >
+ ![image](https://user-images.githubusercontent.com/127927264/225727901-d43ba78d-7883-4566-97d6-3843ad100bbb.png) 
 
